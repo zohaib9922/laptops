@@ -1,0 +1,174 @@
+2022-06-28T00:41:03+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 62ba4ccbd8f77
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d35aefd188
+            [name] => Laptop Services
+            [domain] => http://localhost/laptops
+            [email_address] => hammaddagra79@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03184422271
+            [address] => Array
+                (
+                    [address1] => Punjab, Pakistan
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54782
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03184422271
+                    [company] => Laptop Services
+                )
+
+        )
+
+)
+
+2022-06-28T00:41:15+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-06-28T00:41:19+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 62ba4ccbd8f77
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d35aefd188
+            [name] => Laptop Services
+            [domain] => http://localhost/laptops
+            [email_address] => hammaddagra79@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03184422271
+            [address] => Array
+                (
+                    [address1] => Punjab, Pakistan
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54782
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03184422271
+                    [company] => Laptop Services
+                )
+
+        )
+
+)
+
+2022-06-28T00:41:22+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-06-28T00:41:23+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 62ba4ccbd8f77
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => d35aefd188
+            [name] => Laptop Services
+            [domain] => http://localhost/laptops
+            [email_address] => hammaddagra79@gmail.com
+            [currency_code] => PKR
+            [money_format] => ₨
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 03184422271
+            [address] => Array
+                (
+                    [address1] => Punjab, Pakistan
+                    [city] => Lahore
+                    [province] => PB
+                    [postal_code] => 54782
+                    [country] => PK
+                    [country_code] => PK
+                    [phone] => 03184422271
+                    [company] => Laptop Services
+                )
+
+        )
+
+)
+
+2022-06-28T00:41:26+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-06-28T00:41:26+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Tue, Jun 28, 2022 12:41 AM
+2022-06-28T00:41:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2022-06-28T00:41:40+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2022-06-28T00:41:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2022-06-28T00:41:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2022-06-28T00:41:42+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 88
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 283
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 285
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 287
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 290
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 577
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 579
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 587
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 589
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 593
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 596
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1491
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1760
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1764
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1767
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1770
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1773
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1777
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1790
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1799
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1806
+2022-06-28T00:41:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1814
+2022-06-28T00:41:44+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2022-06-28T00:41:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #88
+2022-06-28T00:41:47+00:00 NOTICE product_submit.success :: addStoreProduct :: #283
+2022-06-28T00:41:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #285
+2022-06-28T00:41:49+00:00 NOTICE product_submit.success :: addStoreProduct :: #287
+2022-06-28T00:41:50+00:00 NOTICE product_submit.success :: addStoreProduct :: #290
+2022-06-28T00:41:51+00:00 NOTICE product_submit.success :: addStoreProduct :: #577
+2022-06-28T00:41:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #579
+2022-06-28T00:41:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #587
+2022-06-28T00:41:54+00:00 NOTICE product_submit.success :: addStoreProduct :: #589
+2022-06-28T00:41:55+00:00 NOTICE product_submit.success :: addStoreProduct :: #593
+2022-06-28T00:41:56+00:00 NOTICE product_submit.success :: addStoreProduct :: #596
+2022-06-28T00:41:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #1491
+2022-06-28T00:41:58+00:00 NOTICE product_submit.success :: addStoreProduct :: #1760
+2022-06-28T00:41:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #1764
+2022-06-28T00:42:00+00:00 NOTICE product_submit.success :: addStoreProduct :: #1767
+2022-06-28T00:42:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #1770
+2022-06-28T00:42:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #1773
+2022-06-28T00:42:11+00:00 NOTICE product_submit.success :: addStoreProduct :: #1777
+2022-06-28T00:42:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #1790
+2022-06-28T00:42:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #1799
+2022-06-28T00:42:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #1806
+2022-06-28T00:42:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #1814
+2022-06-28T00:42:15+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2022-06-28T00:42:17+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2022-06-28T00:42:40+00:00 NOTICE sync.completed :: Finished Sync :: Tue, Jun 28, 2022 12:42 AM (total time: 00:01:14)
